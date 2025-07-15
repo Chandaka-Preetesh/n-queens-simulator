@@ -102,7 +102,7 @@ function App() {
           {viewMode === 'learn' ? (
             <div className="bg-white rounded-lg shadow-lg p-4">
               <h3 className="text-lg font-bold text-emerald-900 mb-3">How the Algorithm Works</h3>
-              <div className="prose prose-sm max-w-none text-gray-700">
+              <div className="prose prose-sm max-w-none text-gray-650">
                 <p>
                   The N-Queens problem is solved using <strong>backtracking</strong>, a recursive algorithm that builds solutions incrementally.
                 </p>
