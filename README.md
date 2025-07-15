@@ -10,7 +10,7 @@ An interactive and animated visualization of the **N-Queens Problem**, built wit
 - ♟️ **Interactive Chessboard** – Clickable and animated queen placements.
 - 🧠 **Learn Mode** – Guided breakdown of algorithm logic and flow.
 - ⚙️ **Control Panel**
-  - Board size adjustment (4×4 to 12×12)
+  - Board size adjustment (4×4 to 10×10)
   - Play/Pause algorithm execution
   - Step forward/backward manually
   - Speed control (1x to 5x)
