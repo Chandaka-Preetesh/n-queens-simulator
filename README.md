@@ -1,0 +1,27 @@
+# ♕ N-Queens Visualizer
+
+An interactive and animated visualization of the **N-Queens Problem**, built with **React** and **Tailwind CSS**. This project helps users understand how the backtracking algorithm works in solving the challenge of placing N queens on an N×N chessboard so that no two queens threaten each other.
+
+---
+
+## 🚀 Features
+
+- 🎯 **Visual Solver** – Step-by-step animated solving using backtracking.
+- ♟️ **Interactive Chessboard** – Clickable and animated queen placements.
+- 🧠 **Learn Mode** – Guided breakdown of algorithm logic and flow.
+- ⚙️ **Control Panel**
+  - Board size adjustment (4×4 to 12×12)
+  - Play/Pause algorithm execution
+  - Step forward/backward manually
+  - Speed control (1x to 5x)
+  - View all possible solutions
+- 🌿 **Theming** – Clean black-and-white chessboard with green-themed UI.
+
+---
+
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
